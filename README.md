@@ -1,7 +1,7 @@
 
 # R foundations repo
 
-Student-facing repo for the R foundations course at the GRAPH Courses. 
+Student-facing repo for the R foundations course at the SI Analytics. 
 
 This repo needs to be downloaded or cloned by students so that they can access the data, scripts and autograders.
 
