@@ -5,7 +5,7 @@ output:
     number_sections: true
     toc: true
     toc_float: true
-    css: !expr here::here("global/style/style.css")
+    css: !expr here::here("global/style/si-analytics.css")
     highlight: kate
 editor_options:
   markdown:

@@ -5,7 +5,7 @@ output:
     number_sections: true
     toc: true
     toc_float: true
-    css: !expr here::here("global/style/style.css")
+    css: !expr here::here("global/style/si-analytics.css")
     highlight: kate
 editor_options: 
   chunk_output_type: console
@@ -200,8 +200,8 @@ yao %>%
 
 Hmm. Apparently nothing happened. The one thing you *might* notice is a new section in the header that tells you the grouped-by variable---sex---and the number of groups---2:
 
-      # A tibble: 971 × 10
-    👉# Groups:   sex [2]👈
+      # A tibble: 971 C 10
+    p	# Groups:   sex [2]p
 
 Apart from this header however, the data frame appears unchanged.
 
@@ -432,8 +432,8 @@ yao %>%
 
 Now the header tells you that the data is still grouped by the first variable in `group_by()`, sex:
 
-      # A tibble: 18 × 3
-    👉# Groups:   sex [2]👈
+      # A tibble: 18 C 3
+    p	# Groups:   sex [2]p
 
 What is the implication of this persistent grouping in the data frame? It means that the data frame may exhibit what seems like weird behavior when you try to apply some {dplyr} functions on it.
 

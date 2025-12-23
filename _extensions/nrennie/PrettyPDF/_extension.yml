@@ -1,5 +1,5 @@
 title: PrettyPDF
-author: Nicola Rennie
+author: SI Analytics
 version: 0.0.3
 contributes:
   project:
@@ -22,7 +22,7 @@ contributes:
         y: 2cm
       font-paths: Ubuntu
       typst-logo: 
-        path: "logo.png"
+        path: "logo.jpeg"
       template-partials:
         - typst-template.typ
         - typst-show.typ

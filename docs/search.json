@@ -2,9 +2,12 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Introduction to Data Analysis with R",
+    "title": "R for Data Analysis and Visualization",
     "section": "",
-    "text": "Introduction\nThis book is a compilation of lesson notes for a 3-month online course offered by The GRAPH Courses. To access the lesson videos, exercise files, and online quizzes, please visit our website, thegraphcourses.org.\nThe GRAPH Courses is a project of the Global Research and Analyses for Public Health (GRAPH) Network, a non-profit organization dedicated to making code and data skills accessible through affordable live bootcamps and free self-paced courses."
+    "text": "Introduction\nThis book is a compilation of lesson notes for a structured, multi-week online training program offered by Strategic Insights and Analytics (SI Analytics). To access the accompanying lesson videos, practice datasets, exercises, and additional learning resources, please visit our website at sianalytics.org.\nStrategic Insights and Analytics (SI Analytics) is a professional training and analytics organization focused on building practical data analysis, visualization, and decision-intelligence capacity. Through a combination of instructor-led bootcamps, self-paced courses, and applied project support, SI Analytics equips individuals and organizations with the skills needed to translate data into actionable insight across business, public sector, and global development contexts.",
+    "crumbs": [
+      "Introduction"
+    ]
   },
   {
     "objectID": "index.html#contributors",
@@ -16,9 +19,12 @@
   {
     "objectID": "index.html#partners-funders",
     "href": "index.html#partners-funders",
-    "title": "Introduction to Data Analysis with R",
+    "title": "R for Data Analysis and Visualization",
     "section": "Partners & Funders",
-    "text": "Partners & Funders\n\nUniversity of Geneva\nUniversity of Oxford\nWorld Health Organization\nGlobal Fund\nErnst Goehner Foundation"
+    "text": "Partners & Funders\n\nBabcock University\nPacesetters Leadership Center\nVoiceIT Africa\nGrant Masterz\nEagleolu Global Resources\nNeccessitous Exquisite World",
+    "crumbs": [
+      "Introduction"
+    ]
   },
   {
     "objectID": "foundations_ls01_setting_up.html#learning-objective",
