@@ -13,9 +13,9 @@ book:
   repo-actions: [edit, issue]
   page-footer:
     left: |
-      Book created by <a href="https://thegraphcourses.org/">The GRAPH Courses</a>
+      Book created by <a href="https://sianalytics.org.org/">SI Analytics</a>
     right: |
-      For a PDF copy, please visit this <a href="https://raw.githubusercontent.com/the-graph-courses/idar_book/main/pdf/Introduction-to-Data-Analysis-with-R.pdf">page</a>.
+      For a copy, please visit this <a href="https://sianalyticslab.github.io/quarto/">page</a>.
   chapters:
     - index.qmd
     
