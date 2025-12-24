@@ -8,7 +8,7 @@ book:
   author: "SI Analytics"
   cover-image: images/cover.jpg
   favicon: logo.jpeg
-  repo-url: https://github.com/the-graph-courses/idar_book
+  repo-url: https://sianalyticslab.github.io/quarto/
   repo-branch: main
   repo-actions: [edit, issue]
   page-footer:
