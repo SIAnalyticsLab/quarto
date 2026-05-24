@@ -2,14 +2,13 @@
 title: 'Lesson notes | RStudio projects'
 output:
   html_document:
+    
     number_sections: true
     toc: true
     toc_float: true
     css: !expr here::here("global/style/si-analytics.css")
     highlight: kate
-    
 output_dir: !expr here::here("docs")
-
 editor_options:
   markdown:
     wrap: 100
@@ -21,7 +20,11 @@ editor_options:
 ```{r, include = FALSE, warning = FALSE, message = FALSE}
 # Load packages 
 if(!require(pacman)) install.packages("pacman")
-pacman::p_load(tidyverse, knitr, here, janitor, inspectdf)
+pacman::p_load(tidyverse, knitr, here, janitor)
+
+pacman::p_load_current_gh(
+  "https://github.com/SIAnalyticsLab/inspectdf"
+)
 
 # Source functions 
 source(here("global/functions/misc_functions.R"))
@@ -210,8 +213,11 @@ if(!require(pacman)) install.packages("pacman")
 pacman::p_load(
   tidyverse,
   janitor,
-  inspectdf,
   here # new package we will use soon
+)
+
+pacman::p_load_current_gh(
+  "https://github.com/SIAnalyticsLab/inspectdf"
 )
 
 

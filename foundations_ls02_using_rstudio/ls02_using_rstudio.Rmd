@@ -2,14 +2,13 @@
 title: 'Lesson notes | Using RStudio'
 output:
   html_document:
+    
     number_sections: true
     toc: true
     toc_float: true
     css: !expr here::here("global/style/si-analytics.css")
     highlight: kate
-    
 output_dir: !expr here::here("docs")
-
 editor_options:
   markdown:
     wrap: 100
